@@ -1,0 +1,16 @@
+{
+  "name": "Percorso Ascolto - Biofon Acustica",
+  "short_name": "Percorso Ascolto",
+  "description": "Il tuo percorso di allenamento all'ascolto, a cura di Biofon Acustica",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF2EF",
+  "theme_color": "#16283E",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
